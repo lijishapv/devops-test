@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-nginx
-        image: 329909046301.dkr.ecr.us-east-1.amazonaws.com/test-repo:83
+        image: 329909046301.dkr.ecr.us-east-1.amazonaws.com/test-repo:84
         ports:
         - containerPort: 80
 ---

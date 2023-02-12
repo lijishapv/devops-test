@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: my-nginx
-        image: nginx:IMAGE_TAG
+        image: 329909046301.dkr.ecr.us-east-1.amazonaws.com/test-repo:IMAGE_TAG
         ports:
         - containerPort: 80
 ---
